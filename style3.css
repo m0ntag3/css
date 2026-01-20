@@ -1,0 +1,40 @@
+body{
+    background-color: darkgoldenrod;
+}
+#Pa{
+    color: crimson;
+    background-color: cornsilk;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+#Pb{
+    color: brown;
+    font-size: 20px;
+    background-color: cadetblue;
+    padding: 10px;
+    text-align: end;
+    text-transform: uppercase;
+}
+#Pc{
+    color: darkgreen;
+    grid-area: span;
+    padding: 10px;
+    text-rendering: unset;
+    border:  5px groove;
+    background-color: darkcyan;
+    font-size: 20px;
+}
+.Myparagraph{
+    color: aquamarine;
+    background-color: rgb(47, 47, 118);
+    text-align: center;
+    font-size: 23px;
+    padding: 12px;
+}
+.mydiv{
+    color: rgb(75, 72, 27);
+    font-size: 24px;
+    text-decoration: underline;
+    text-align: end;
+}
